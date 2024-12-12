@@ -14,3 +14,7 @@ def check_spark_port(start_port=4040, max_port=4050, host='127.0.0.1'):
 
 # Check for Spark on localhost in the default range
 check_spark_port()
+
+
+
+
