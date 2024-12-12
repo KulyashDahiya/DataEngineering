@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8bc8a94-f34f-46c9-a969-b10d7f63dc6f" name="Changes" comment="" />
+    <list default="true" id="e8bc8a94-f34f-46c9-a969-b10d7f63dc6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MK_Youtube_Spark/UniqueAndSorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MK_Youtube_Spark/bradcastJoins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -42,26 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.SparkPort.executor": "Run",
-    "Python.UniqueAndSorted.executor": "Run",
-    "Python.bradcastJoins.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.python3.11.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/kulyashdahiya/STUDY/DataEngineering/PysparkLearning/ManishKumar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3.Joins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SparkPort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UniqueAndSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bradcastJoins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python3.11.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kulyashdahiya/STUDY/DataEngineering/PysparkLearning/ManishKumar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown.SmartKeys&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Spark" />
@@ -225,7 +231,7 @@
       <workItem from="1733888444913" duration="5888000" />
       <workItem from="1733902467043" duration="152000" />
       <workItem from="1733902621919" duration="1413000" />
-      <workItem from="1733904467592" duration="7455000" />
+      <workItem from="1733904467592" duration="15699000" />
     </task>
     <servers />
   </component>
@@ -236,6 +242,7 @@
     <SUITE FILE_PATH="coverage/ManishKumar$UniqueAndSorted.coverage" NAME="UniqueAndSorted Coverage Results" MODIFIED="1733973297840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MK_Youtube_Spark" />
     <SUITE FILE_PATH="coverage/ManishKumar$main.coverage" NAME="main Coverage Results" MODIFIED="1733902731073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ManishKumar$bradcastJoins.coverage" NAME="bradcastJoins Coverage Results" MODIFIED="1733913727625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MK_Youtube_Spark" />
+    <SUITE FILE_PATH="coverage/ManishKumar$3_Joins.coverage" NAME="3.Joins Coverage Results" MODIFIED="1733992556996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MK_Youtube_Spark" />
     <SUITE FILE_PATH="coverage/ManishKumar$SparkPort.coverage" NAME="SparkPort Coverage Results" MODIFIED="1733912208519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MK_Youtube_Spark" />
   </component>
 </project>
