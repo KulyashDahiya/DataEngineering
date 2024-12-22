@@ -1,0 +1,18 @@
+[2024-12-19T07:52:26.073+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-12-19T07:52:26.080+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: our_dag_with_python_operator_v04.get_age manual__2024-12-19T07:52:25.634202+00:00 [queued]>
+[2024-12-19T07:52:26.085+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: our_dag_with_python_operator_v04.get_age manual__2024-12-19T07:52:25.634202+00:00 [queued]>
+[2024-12-19T07:52:26.085+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 6
+[2024-12-19T07:52:26.092+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): get_age> on 2024-12-19 07:52:25.634202+00:00
+[2024-12-19T07:52:26.096+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'our_dag_with_python_operator_v04', 'get_age', 'manual__2024-12-19T07:52:25.634202+00:00', '--job-id', '2207', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_python_operator.py', '--cfg-path', '/tmp/tmp8ug7gp71']
+[2024-12-19T07:52:26.097+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=1141) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-12-19T07:52:26.097+0000] {standard_task_runner.py:105} INFO - Job 2207: Subtask get_age
+[2024-12-19T07:52:26.098+0000] {standard_task_runner.py:72} INFO - Started process 1143 to run task
+[2024-12-19T07:52:26.117+0000] {task_command.py:467} INFO - Running <TaskInstance: our_dag_with_python_operator_v04.get_age manual__2024-12-19T07:52:25.634202+00:00 [running]> on host ad6490b5d50c
+[2024-12-19T07:52:26.147+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='code2j' AIRFLOW_CTX_DAG_ID='our_dag_with_python_operator_v04' AIRFLOW_CTX_TASK_ID='get_age' AIRFLOW_CTX_EXECUTION_DATE='2024-12-19T07:52:25.634202+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-12-19T07:52:25.634202+00:00'
+[2024-12-19T07:52:26.147+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-12-19T07:52:26.158+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-12-19T07:52:26.161+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-12-19T07:52:26.161+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=our_dag_with_python_operator_v04, task_id=get_age, run_id=manual__2024-12-19T07:52:25.634202+00:00, execution_date=20241219T075225, start_date=20241219T075226, end_date=20241219T075226
+[2024-12-19T07:52:26.196+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-12-19T07:52:26.206+0000] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-12-19T07:52:26.207+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

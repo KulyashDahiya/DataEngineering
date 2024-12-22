@@ -1,0 +1,18 @@
+[2024-12-21T11:26:07.283+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-12-21T11:26:07.290+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_python_v01.PrintReturn scheduled__2024-12-21T03:14:00+00:00 [queued]>
+[2024-12-21T11:26:07.294+0000] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_python_v01.PrintReturn scheduled__2024-12-21T03:14:00+00:00 [queued]>
+[2024-12-21T11:26:07.296+0000] {taskinstance.py:2866} INFO - Starting attempt 1 of 6
+[2024-12-21T11:26:07.302+0000] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): PrintReturn> on 2024-12-21 03:14:00+00:00
+[2024-12-21T11:26:07.305+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=2967) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-12-21T11:26:07.306+0000] {standard_task_runner.py:72} INFO - Started process 2974 to run task
+[2024-12-21T11:26:07.305+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'dag_python_v01', 'PrintReturn', 'scheduled__2024-12-21T03:14:00+00:00', '--job-id', '3040', '--raw', '--subdir', 'DAGS_FOLDER/dag2_python.py', '--cfg-path', '/tmp/tmphgeqmn5p']
+[2024-12-21T11:26:07.307+0000] {standard_task_runner.py:105} INFO - Job 3040: Subtask PrintReturn
+[2024-12-21T11:26:07.328+0000] {task_command.py:467} INFO - Running <TaskInstance: dag_python_v01.PrintReturn scheduled__2024-12-21T03:14:00+00:00 [running]> on host 1013b13d6384
+[2024-12-21T11:26:07.364+0000] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='code2j' AIRFLOW_CTX_DAG_ID='dag_python_v01' AIRFLOW_CTX_TASK_ID='PrintReturn' AIRFLOW_CTX_EXECUTION_DATE='2024-12-21T03:14:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-12-21T03:14:00+00:00'
+[2024-12-21T11:26:07.365+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-12-21T11:26:07.373+0000] {logging_mixin.py:190} INFO - Hey Yash, You successfully created a dag which calls a python function to run
+[2024-12-21T11:26:07.373+0000] {python.py:240} INFO - Done. Returned value was: 25
+[2024-12-21T11:26:07.385+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-12-21T11:26:07.388+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=dag_python_v01, task_id=PrintReturn, run_id=scheduled__2024-12-21T03:14:00+00:00, execution_date=20241221T031400, start_date=20241221T112607, end_date=20241221T112607
+[2024-12-21T11:26:07.403+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-12-21T11:26:07.409+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

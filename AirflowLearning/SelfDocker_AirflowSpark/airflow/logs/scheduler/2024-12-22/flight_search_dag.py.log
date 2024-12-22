@@ -1,0 +1,235 @@
+[2024-12-22T11:35:22.637+0000] {processor.py:156} INFO - Started process (PID=276) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:35:22.638+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:35:22.638+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.638+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:35:22.649+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:35:22.703+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.703+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:flight_search_dag
+[2024-12-22T11:35:22.706+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.706+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:flight_search_dag
+[2024-12-22T11:35:22.708+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.708+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:flight_search_dag
+[2024-12-22T11:35:22.708+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.708+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:35:22.714+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.714+0000] {dag.py:2747} INFO - Creating ORM DAG for flight_search_dag
+[2024-12-22T11:35:22.719+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:22.719+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T10:00:00+00:00, run_after=2024-12-22T11:00:00+00:00
+[2024-12-22T11:35:22.726+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.091 seconds
+[2024-12-22T11:35:53.080+0000] {processor.py:156} INFO - Started process (PID=298) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:35:53.081+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:35:53.082+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:53.081+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:35:53.093+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:35:53.113+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:53.113+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:35:53.128+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:35:53.128+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:35:53.136+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.060 seconds
+[2024-12-22T11:36:23.491+0000] {processor.py:156} INFO - Started process (PID=308) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:36:23.492+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:36:23.493+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:36:23.493+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:36:23.504+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:36:23.525+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:36:23.525+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:36:23.539+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:36:23.539+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:36:23.548+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.060 seconds
+[2024-12-22T11:36:53.925+0000] {processor.py:156} INFO - Started process (PID=318) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:36:53.926+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:36:53.927+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:36:53.927+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:36:53.937+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:36:53.955+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:36:53.955+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:36:53.970+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:36:53.970+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:36:53.978+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.057 seconds
+[2024-12-22T11:37:24.348+0000] {processor.py:156} INFO - Started process (PID=328) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:37:24.349+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:37:24.350+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:37:24.349+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:37:24.360+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:37:24.380+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:37:24.380+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:37:24.394+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:37:24.394+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:37:24.402+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.057 seconds
+[2024-12-22T11:37:54.723+0000] {processor.py:156} INFO - Started process (PID=338) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:37:54.724+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:37:54.725+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:37:54.725+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:37:54.736+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:37:54.754+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:37:54.754+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:37:54.768+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:37:54.768+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:37:54.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.058 seconds
+[2024-12-22T11:38:25.094+0000] {processor.py:156} INFO - Started process (PID=348) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:38:25.095+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:38:25.098+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:38:25.098+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:38:25.109+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:38:25.129+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:38:25.129+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:38:25.143+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:38:25.143+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:38:25.152+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.062 seconds
+[2024-12-22T11:38:55.483+0000] {processor.py:156} INFO - Started process (PID=358) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:38:55.484+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:38:55.484+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:38:55.484+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:38:55.493+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:38:55.510+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:38:55.510+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:38:55.525+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:38:55.525+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:38:55.534+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.054 seconds
+[2024-12-22T11:39:25.870+0000] {processor.py:156} INFO - Started process (PID=368) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:39:25.871+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:39:25.872+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:39:25.872+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:39:25.883+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:39:25.900+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:39:25.900+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:39:25.915+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:39:25.915+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:39:25.926+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.061 seconds
+[2024-12-22T11:39:56.254+0000] {processor.py:156} INFO - Started process (PID=378) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:39:56.255+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:39:56.256+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:39:56.256+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:39:56.266+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:39:56.287+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:39:56.287+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:39:56.301+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:39:56.301+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:39:56.309+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.059 seconds
+[2024-12-22T11:40:26.644+0000] {processor.py:156} INFO - Started process (PID=388) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:40:26.645+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:40:26.646+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:40:26.645+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:40:26.655+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:40:26.677+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:40:26.677+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:40:26.692+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:40:26.692+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:40:26.701+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.060 seconds
+[2024-12-22T11:40:56.966+0000] {processor.py:156} INFO - Started process (PID=422) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:40:56.966+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:40:56.967+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:40:56.967+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:40:56.980+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:40:57.000+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:40:57.000+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:40:57.014+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:40:57.014+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:40:57.022+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.060 seconds
+[2024-12-22T11:41:40.971+0000] {processor.py:156} INFO - Started process (PID=166) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:41:40.972+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:41:40.972+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:41:40.972+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:41:40.979+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:41:40.992+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:41:40.992+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:41:41.005+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:41:41.005+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:41:41.014+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.045 seconds
+[2024-12-22T11:42:11.238+0000] {processor.py:156} INFO - Started process (PID=176) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:42:11.239+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:42:11.240+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:42:11.239+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:42:11.249+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:42:11.268+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:42:11.268+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:42:11.284+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:42:11.284+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:42:11.294+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.060 seconds
+[2024-12-22T11:42:41.515+0000] {processor.py:156} INFO - Started process (PID=186) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:42:41.516+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:42:41.516+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:42:41.516+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:42:41.525+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:42:41.543+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:42:41.543+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:42:41.557+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:42:41.557+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:42:41.565+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.053 seconds
+[2024-12-22T11:43:11.832+0000] {processor.py:156} INFO - Started process (PID=196) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:43:11.833+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:43:11.833+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:43:11.833+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:43:11.841+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:43:11.856+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:43:11.856+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:43:11.870+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:43:11.870+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:43:11.878+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.048 seconds
+[2024-12-22T11:43:42.168+0000] {processor.py:156} INFO - Started process (PID=206) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:43:42.168+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:43:42.169+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:43:42.169+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:43:42.178+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:43:42.197+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:43:42.196+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:43:42.211+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:43:42.211+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:43:42.220+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.055 seconds
+[2024-12-22T11:44:12.515+0000] {processor.py:156} INFO - Started process (PID=216) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:44:12.516+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:44:12.517+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:44:12.517+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:44:12.526+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:44:12.545+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:44:12.545+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:44:12.561+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:44:12.561+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:44:12.570+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.058 seconds
+[2024-12-22T11:44:42.870+0000] {processor.py:156} INFO - Started process (PID=226) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:44:42.871+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:44:42.871+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:44:42.871+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:44:42.881+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:44:42.900+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:44:42.900+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:44:42.915+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:44:42.915+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:44:42.923+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.056 seconds
+[2024-12-22T11:45:13.221+0000] {processor.py:156} INFO - Started process (PID=236) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:45:13.222+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:45:13.223+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:45:13.223+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:45:13.233+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:45:13.252+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:45:13.252+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:45:13.267+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:45:13.267+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:45:13.275+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.058 seconds
+[2024-12-22T11:45:43.553+0000] {processor.py:156} INFO - Started process (PID=246) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:45:43.554+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:45:43.554+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:45:43.554+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:45:43.565+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:45:43.588+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:45:43.587+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:45:43.605+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:45:43.605+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:45:43.614+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.064 seconds
+[2024-12-22T11:46:13.913+0000] {processor.py:156} INFO - Started process (PID=280) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:46:13.913+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:46:13.914+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:46:13.914+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:46:13.925+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:46:13.944+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:46:13.944+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:46:13.960+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:46:13.959+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:46:13.968+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.058 seconds
+[2024-12-22T11:46:44.258+0000] {processor.py:156} INFO - Started process (PID=290) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:46:44.259+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:46:44.259+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:46:44.259+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:46:44.267+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:46:44.283+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:46:44.282+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:46:44.297+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:46:44.297+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:46:44.305+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.049 seconds
+[2024-12-22T11:47:14.618+0000] {processor.py:156} INFO - Started process (PID=300) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:47:14.618+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:47:14.619+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:47:14.619+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:47:14.626+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:47:14.643+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:47:14.643+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:47:14.657+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:47:14.657+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:47:14.664+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.049 seconds
+[2024-12-22T11:47:44.928+0000] {processor.py:156} INFO - Started process (PID=310) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:47:44.928+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:47:44.928+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:47:44.928+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:47:44.935+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:47:44.950+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:47:44.950+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:47:44.964+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:47:44.964+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:47:44.971+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.046 seconds
+[2024-12-22T11:48:15.271+0000] {processor.py:156} INFO - Started process (PID=320) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:48:15.271+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:48:15.272+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:48:15.272+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:48:15.280+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:48:15.299+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:48:15.299+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:48:15.315+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:48:15.314+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:48:15.323+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.055 seconds
+[2024-12-22T11:48:45.598+0000] {processor.py:156} INFO - Started process (PID=330) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:48:45.599+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:48:45.599+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:48:45.599+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:48:45.607+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:48:45.624+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:48:45.624+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:48:45.638+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:48:45.638+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:48:45.646+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.050 seconds
+[2024-12-22T11:49:15.912+0000] {processor.py:156} INFO - Started process (PID=340) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:49:15.912+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:49:15.913+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:49:15.913+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:49:15.920+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:49:15.937+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:49:15.937+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:49:15.950+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:49:15.950+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:49:15.959+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.049 seconds
+[2024-12-22T11:49:46.247+0000] {processor.py:156} INFO - Started process (PID=350) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:49:46.248+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:49:46.248+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:49:46.248+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:49:46.255+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:49:46.271+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:49:46.271+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:49:46.285+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:49:46.285+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:49:46.293+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.048 seconds
+[2024-12-22T11:50:16.573+0000] {processor.py:156} INFO - Started process (PID=372) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:50:16.573+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:50:16.574+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:50:16.574+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:50:16.586+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:50:16.602+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:50:16.602+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:50:16.621+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:50:16.621+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:50:16.629+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.059 seconds
+[2024-12-22T11:50:46.930+0000] {processor.py:156} INFO - Started process (PID=382) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:50:46.931+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:50:46.931+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:50:46.931+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:50:46.938+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:50:46.954+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:50:46.954+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:50:46.968+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:50:46.968+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:50:46.976+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.049 seconds
+[2024-12-22T11:51:17.290+0000] {processor.py:156} INFO - Started process (PID=404) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:51:17.290+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:51:17.291+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:51:17.291+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:51:17.298+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:51:17.315+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:51:17.315+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:51:17.329+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:51:17.329+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:51:17.337+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.049 seconds
+[2024-12-22T11:51:47.648+0000] {processor.py:156} INFO - Started process (PID=414) to work on /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:51:47.648+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/flight_search_dag.py for tasks to queue
+[2024-12-22T11:51:47.649+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:51:47.648+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:51:47.655+0000] {processor.py:809} INFO - DAG(s) dict_keys(['flight_search_dag']) retrieved from /opt/airflow/dags/flight_search_dag.py
+[2024-12-22T11:51:47.674+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:51:47.674+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-12-22T11:51:47.688+0000] {logging_mixin.py:149} INFO - [2024-12-22T11:51:47.688+0000] {dag.py:3490} INFO - Setting next_dagrun for flight_search_dag to 2024-12-22T11:00:00+00:00, run_after=2024-12-22T12:00:00+00:00
+[2024-12-22T11:51:47.696+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/flight_search_dag.py took 0.050 seconds
