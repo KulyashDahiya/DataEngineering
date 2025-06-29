@@ -1,7 +1,11 @@
 FROM apache/airflow:2.6.0
 
+
 # Switch to root for apt commands
 USER root
+
+# Install Tools
+RUN apt update && apt install -y iputils-ping curl
 
 # Install Java for Spark
 RUN apt-get update && apt-get install -y --no-install-recommends \

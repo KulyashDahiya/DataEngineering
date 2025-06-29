@@ -467,3 +467,276 @@ File Path                                 PID  Runtime      # DAGs    # Errors  
 /opt/airflow/dags/spark_job_dag.py        417  0.00s             1           0  0.05s           2024-12-22T11:51:17
 /opt/airflow/dags/flight_search_dag.py    414  0.01s             1           0  0.06s           2024-12-22T11:51:17
 ================================================================================
+[2024-12-22T11:52:18.007+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py        427  0.00s             1           0  0.06s           2024-12-22T11:51:47
+/opt/airflow/dags/flight_search_dag.py    424  0.01s             1           0  0.06s           2024-12-22T11:51:47
+================================================================================
+[2024-12-22T11:52:48.407+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py        437  0.00s             1           0  0.06s           2024-12-22T11:52:18
+/opt/airflow/dags/flight_search_dag.py    434  0.01s             1           0  0.06s           2024-12-22T11:52:18
+================================================================================
+[2024-12-22T11:53:18.825+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py        447  0.00s             1           0  0.07s           2024-12-22T11:52:48
+/opt/airflow/dags/flight_search_dag.py    444  0.01s             1           0  0.07s           2024-12-22T11:52:48
+================================================================================
+[2024-12-22T11:53:51.277+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.08s           2024-12-22T11:53:49
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T11:53:49
+================================================================================
+[2024-12-22T12:08:58.936+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T12:08:58.943+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T12:09:23.414+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.07s           2024-12-22T12:08:59
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.08s           2024-12-22T12:08:59
+================================================================================
+[2024-12-22T12:24:29.593+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T12:24:29.595+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T12:24:55.030+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.12s           2024-12-22T12:24:29
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.13s           2024-12-22T12:24:29
+================================================================================
+[2024-12-22T12:40:26.309+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T12:40:26.313+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T12:40:51.816+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.12s           2024-12-22T12:40:26
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.11s           2024-12-22T12:40:26
+================================================================================
+[2024-12-22T12:56:10.381+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T12:56:10.383+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T12:56:36.919+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.11s           2024-12-22T12:56:10
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.11s           2024-12-22T12:56:10
+================================================================================
+[2024-12-22T13:11:40.804+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T13:11:40.809+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T13:12:07.239+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.17s           2024-12-22T13:11:40
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.18s           2024-12-22T13:11:41
+================================================================================
+[2024-12-22T13:40:40.711+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T13:40:40.714+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T13:41:08.243+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.13s           2024-12-22T13:40:40
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.14s           2024-12-22T13:40:40
+================================================================================
+[2024-12-22T13:54:28.356+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T13:54:28.360+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T13:54:55.854+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.11s           2024-12-22T13:54:28
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.11s           2024-12-22T13:54:28
+================================================================================
+[2024-12-22T14:09:57.741+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T14:09:57.744+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T14:10:26.254+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.11s           2024-12-22T14:09:57
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.10s           2024-12-22T14:09:57
+================================================================================
+[2024-12-22T14:36:17.565+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T14:36:17.577+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T14:36:47.072+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.16s           2024-12-22T14:36:17
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.16s           2024-12-22T14:36:17
+================================================================================
+[2024-12-22T14:37:17.520+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.10s           2024-12-22T14:36:48
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.11s           2024-12-22T14:36:48
+================================================================================
+[2024-12-22T14:37:47.919+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.09s           2024-12-22T14:37:18
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T14:37:18
+================================================================================
+[2024-12-22T14:38:18.386+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.09s           2024-12-22T14:37:49
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.10s           2024-12-22T14:37:49
+================================================================================
+[2024-12-22T14:38:48.835+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.09s           2024-12-22T14:38:19
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T14:38:19
+================================================================================
+[2024-12-22T14:39:19.307+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.08s           2024-12-22T14:38:49
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T14:38:49
+================================================================================
+[2024-12-22T14:39:49.760+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.09s           2024-12-22T14:39:20
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T14:39:24
+================================================================================
+[2024-12-22T14:40:20.184+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.09s           2024-12-22T14:39:50
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.08s           2024-12-22T14:39:54
+================================================================================
+[2024-12-22T14:40:50.583+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.08s           2024-12-22T14:40:21
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T14:40:25
+================================================================================
+[2024-12-22T14:41:17.930+0000] {manager.py:758} INFO - Searching for files in /opt/airflow/dags
+[2024-12-22T14:41:17.933+0000] {manager.py:761} INFO - There are 2 files in /opt/airflow/dags
+[2024-12-22T14:41:20.971+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.08s           2024-12-22T14:40:51
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.09s           2024-12-22T14:40:55
+================================================================================
+[2024-12-22T14:41:51.363+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.08s           2024-12-22T14:41:22
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.08s           2024-12-22T14:41:26
+================================================================================
+[2024-12-22T14:42:21.729+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.08s           2024-12-22T14:41:52
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.06s           2024-12-22T14:41:56
+================================================================================
+[2024-12-22T14:42:52.128+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.06s           2024-12-22T14:42:22
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.06s           2024-12-22T14:42:26
+================================================================================
+[2024-12-22T14:43:22.573+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.07s           2024-12-22T14:42:53
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.08s           2024-12-22T14:42:57
+================================================================================
+[2024-12-22T14:43:53.035+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.07s           2024-12-22T14:43:23
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.07s           2024-12-22T14:43:27
+================================================================================
+[2024-12-22T14:44:23.455+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/spark_job_dag.py                               1           0  0.06s           2024-12-22T14:43:54
+/opt/airflow/dags/flight_search_dag.py                           1           0  0.08s           2024-12-22T14:43:58
+================================================================================
+[2024-12-22T14:44:51.555+0000] {manager.py:470} INFO - Exiting gracefully upon receiving signal 15
