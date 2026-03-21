@@ -1,0 +1,12 @@
+hdfs
+https://www.simplilearn.com/tutorials/hadoop-tutorial/hdfs
+
+https://www.simplilearn.com/tutorials/hadoop-tutorial/hive
+
+https://youtu.be/p0TdBqIt3fg?si=5rlxIQy2dYlMakJv	hadoop
+https://youtu.be/R0WygLgY2nM?si=_dNUdyszn9n68-sI	hdfs
+https://youtu.be/KqaPMCMHH4g?si=l1-S90DbTFRQL9Wn	yarn
+
+https://data-flair.training/blogs/hive-internal-tables-vs-external-tables/
+
+https://data-flair.training/blogs/hive-partitioning-vs-bucketing/
